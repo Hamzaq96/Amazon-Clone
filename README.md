@@ -1,6 +1,9 @@
 # Amazon-Clone
 This is a complete e-commerce website, my version of the amazon web application. The technology stack used is React and express. Used Stripe for payment validation and cloud functions for the backend.
 
+## Link to the Hosted Application
+https://project-70313.web.app
+
 ## Available Scripts
 
 In the project directory, you can run:
