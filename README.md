@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Amazon-Clone
+This is a complete e-commerce website, my version of the amazon web application. The technology stack used is React and express. Used Stripe for payment validation and cloud functions for the backend.
 
 ## Available Scripts
 
